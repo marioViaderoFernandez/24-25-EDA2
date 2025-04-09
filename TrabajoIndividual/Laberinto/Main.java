@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-     de laberinto = new de();
+     Laberinto laberinto = new Laberinto();
      laberinto.mostrarLaberinto();
  
      if(laberinto.resolver()){
